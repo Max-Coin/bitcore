@@ -1,5 +1,5 @@
 
 
-var bitcoreTasks = require('bitcore-build');
+var maxcoin-coreTasks = require('maxcoin-core-build');
 
-bitcoreTasks();
+maxcoin-coreTasks();

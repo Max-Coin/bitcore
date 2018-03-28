@@ -1,5 +1,5 @@
 'use strict';
 
-var bitcore = require('bitcore-lib');
+var maxcoin-core = require('maxcoin-core-lib');
 
-module.exports = bitcore;
+module.exports = maxcoin-core;
