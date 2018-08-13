@@ -1,3 +1,5 @@
+![picture](img/logo.png) 
+
 Maxcoin-Core
 =======
 
@@ -87,5 +89,3 @@ To verify signatures, use the following PGP keys:
 Code released under [the MIT license](https://github.com/bitpay/bitcore/blob/master/LICENSE).
 
 Copyright 2013-2017 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
-
-
