@@ -1,4 +1,4 @@
-![picture](img/logo.png) 
+![picture](img/logo.png)
 
 Maxcoin-Core
 =======
